@@ -1,0 +1,21 @@
+{
+  "name": "com.quanty-bandit.qb.textures",
+  "version": "1.0.0",
+  "displayName": "qb.Textures",
+  "description": "Textures loading and cache management",
+  "unity": "6000.2",
+  "gitDependencies": {
+    "com.quanty-bandit.pattern": "https://github.com/quanty-bandit/qb.Pattern.git",
+    "com.quanty-bandit.threading": "https://github.com/quanty-bandit/qb.Threading.git",
+	
+  },
+  "keywords": [
+    "Memory management",
+    "Threading"
+  ],
+  "author": {
+    "name": "quanty bandit",
+    "email": "pascal@quantybandit.com",
+    "url": "https://quantybandit.com"
+  }
+}
