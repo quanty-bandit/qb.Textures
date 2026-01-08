@@ -1,6 +1,8 @@
 # qb.Textures
 Textures loading and cache management
 
+## CONTENT
+
 **WebTextureCacheHandler**
 
 Handles caching, loading, and management of web textures, supporting multiple formats and device cache with etag validation.
