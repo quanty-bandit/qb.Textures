@@ -27,7 +27,7 @@ Use the Unity package manager and the Install package from git url option.
 ## Dependencies
 
 - https://github.com/quanty-bandit/qb.Pattern.git
-- https://github.com/quanty-bandit/qb.Thrteading.git
+- https://github.com/quanty-bandit/qb.Threading.git
 
 ## Thirdpart embeded source code 
 https://github.com/3DI70R/Unity-GifDecoder.git for gif image decoding.
