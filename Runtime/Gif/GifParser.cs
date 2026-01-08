@@ -6,6 +6,10 @@ using ThreeDISevenZeroR.UnityGifDecoder.Model;
 
 namespace qb.Gif
 {
+
+    /// <summary>
+    /// Gif parser utility class
+    /// </summary>
     public class GifParser
     {
         /// <summary>

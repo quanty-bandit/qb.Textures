@@ -7,6 +7,7 @@ using ThreeDISevenZeroR.UnityGifDecoder.Model;
 using ThreeDISevenZeroR.UnityGifDecoder.Utils;
 using UnityEngine;
 
+/// source from https://github.com/3DI70R/Unity-GifDecoder.git
 namespace ThreeDISevenZeroR.UnityGifDecoder
 {
     /// <summary>

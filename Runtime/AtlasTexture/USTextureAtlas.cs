@@ -3,9 +3,10 @@ using UnityEngine;
 
 namespace qb.Atlas
 {
-    /// <summary>
-    /// Unique size texture atlas
-    /// </summary>
+/// <summary>
+/// Manages a texture atlas for storing multiple frames or textures with a same resolution, providing utilities for frame addition, UV
+/// generation, and sprite creation.
+/// </summary>
     public class USTextureAtlas
     {
         int maxWidth = 1024;

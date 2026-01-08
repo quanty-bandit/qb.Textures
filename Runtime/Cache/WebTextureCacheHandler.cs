@@ -14,6 +14,10 @@ using System.IO;
 #endif
 namespace qb.Cache.Network
 {
+    /// <summary>
+    /// Handles caching, loading, and management of web textures, supporting multiple formats and device cache with etag
+    /// validation.
+    /// </summary>
     public class WebTextureCacheHandler : DisposableCacheHandler
     {
         #region enums and classes
