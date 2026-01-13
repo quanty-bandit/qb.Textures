@@ -1,6 +1,6 @@
 {
   "name": "com.quanty-bandit.textures",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "qb.Textures",
   "description": "Textures loading and cache management",
   "unity": "6000.2",
