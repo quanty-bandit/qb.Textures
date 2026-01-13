@@ -1,5 +1,5 @@
 {
-  "name": "com.quanty-bandit.qb.textures",
+  "name": "com.quanty-bandit.textures",
   "version": "1.0.0",
   "displayName": "qb.Textures",
   "description": "Textures loading and cache management",
